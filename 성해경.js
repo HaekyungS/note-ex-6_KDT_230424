@@ -34,11 +34,11 @@ function exampleOne(object, array) {
     }
   })
   // return value;
+  // 도저히.. 배열과 value 가 어디에 쓰이는 것인지 오늘의 생각으론 어려워서 머리를 비우고 다시 재도전 해보겠습니다!
 }
 
 // document.body.innerHTML=exampleOne(basicData,elementData);
 // exampleOne(basicData, elementData)
-
 
 console.log(exampleOne(basicData, elementData));
 
